@@ -8,3 +8,4 @@ Requirements:
 vlc
 xbacklight
 imagemagick ('composite' is needed) 
+ 
